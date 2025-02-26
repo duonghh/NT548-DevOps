@@ -3,7 +3,7 @@
 ## 📌 Course Information
 - **📛 Course Code:** NT548  
 - **📖 Course Title:** DevOps Technology and Its Applications  
-- **🎓 Course Type:** Graduation course in Computer Networks and Data Communications  
+- **🎓 Course Type:** Graduation course in Computer Networks and Data Communications (UIT)
 
 ## 📜 Course Description
 This course provides an in-depth understanding of DevOps principles, tools, and practices for automating software development and deployment. It covers key topics such as CI/CD pipelines, containerization, infrastructure as code, cloud deployment, and monitoring.
