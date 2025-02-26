@@ -19,4 +19,5 @@ This course provides an in-depth understanding of DevOps principles, tools, and 
 - 📦 **Microservices & Service Mesh** with Istio and Kubernetes  
 
 ## 📬 Contact
-- **💌 Email:** 1410hhd@gmail.com  
+- **💌 Email:** 1410hhd@gmail.com
+- **🔗 LinkedIn:** https://www.linkedin.com/in/hohduong/
