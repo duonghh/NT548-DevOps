@@ -20,4 +20,4 @@ This course provides an in-depth understanding of DevOps principles, tools, and 
 
 ## 📬 Contact
 - **💌 Email:** 1410hhd@gmail.com
-- **🔗 LinkedIn:** https://www.linkedin.com/in/hohduong/
+- **🔗 The lecture videos are recorded:** https://youtube.com/playlist?list=PLf1bnjPfhcx5diA5Qo4OQhLIYxDHhhlDy&si=mo-AQV9M3qMDo8AV
