@@ -6,8 +6,8 @@
 - **🎓 Course Type:** Graduation course in Computer Networks and Data Communications (UIT)
 
 ## 📜 Course Description
-This course provides an in-depth understanding of DevOps principles, tools, and practices for automating software development and deployment. It covers key topics such as CI/CD pipelines, containerization, infrastructure as code, cloud deployment, and monitoring.
-**🔗 The lecture videos are recorded:** https://youtube.com/playlist?list=PLf1bnjPfhcx5diA5Qo4OQhLIYxDHhhlDy&si=mo-AQV9M3qMDo8AV
+- This course provides an in-depth understanding of DevOps principles, tools, and practices for automating software development and deployment. It covers key topics such as CI/CD pipelines, containerization, infrastructure as code, cloud deployment, and monitoring.
+- **🔗 The lecture videos are recorded:** https://youtube.com/playlist?list=PLf1bnjPfhcx5diA5Qo4OQhLIYxDHhhlDy&si=mo-AQV9M3qMDo8AV
 
 ### 🔍 **Key Topics**
 - ⚙️ **Continuous Integration & Continuous Deployment (CI/CD)** using Jenkins and GitHub Actions  
